@@ -11,7 +11,6 @@ I created this github to showcase some of my **Python** work.
 I have experience with many python packages including *NumPy*, *Pandas*, *Matplotlib*, & *SciKit-Learn*.
 I am also good with **SQL**, **Tableau**, and I am an expert **Excel** user.
 
-## Learn More
 
 ### Contact Me
 You can reach me via email at Ryan@DavisData.Science
