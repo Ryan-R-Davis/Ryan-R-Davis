@@ -1,4 +1,4 @@
-![Davis Data Science Logo.](/assets/davis-data-science-high-resolution-logo-color-on-transparent-background_Small.png)
+![Davis Data Science Logo.](/assets/davis-data-science-high-resolution-logo-color-on-transparent-background_XSmall.png)
 # Hi, I'm Ryan!
 
 ## Who I Am
